@@ -1,3 +1,4 @@
+https://www.youtube.com/watch?v=G67jA24GmXk
 
 
 ![raspberry pi pico ssd1289](https://github.com/offpic/SSD1289-16-BIT-TFT-RASPBERRY-PI-PICO-/assets/31142397/8b11ffa8-4a9c-4fee-897a-7ca70827f912)
